@@ -1,0 +1,3 @@
+first  i created my acoount in github.
+after that i made repository named 2301030400045.
+in that repository i created folder named assignment_1. which contain a file named task1.txt
